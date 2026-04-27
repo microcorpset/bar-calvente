@@ -2,10 +2,10 @@
   "restaurant": {
     "name": "Bar Calvente",
     "tagline": {
-      "es": "Cocina tradicional con alma",
-      "en": "Traditional cuisine with soul",
-      "fr": "Cuisine traditionnelle avec âme",
-      "de": "Traditionelle Küche mit Seele"
+      "es": "Cocina moderna, sabor tradicional",
+      "en": "Modern cuisine, traditional flavor",
+      "fr": "Cuisine moderne, saveur traditionnelle",
+      "de": "Moderne Küche, traditioneller Geschmack"
     },
     "logo": "",
     "currency": "€",
@@ -890,7 +890,8 @@
           "Poisson"
         ]
       },
-      "available": true
+      "available": true,
+      "badge": "popular"
     },
     {
       "id": "f4",
@@ -1580,7 +1581,8 @@
           "Mollusques"
         ]
       },
-      "available": true
+      "available": true,
+      "badge": "especial"
     },
     {
       "id": "po1",

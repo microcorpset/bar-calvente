@@ -254,9 +254,9 @@
         "enabled": true,
         "icon": "🔍",
         "text": {
-          "es": "¿Tienes alguna alergia? Pulsa <strong>Filtros</strong> para filtrar los alérgenos.",
-          "en": "Have allergies? Tap <strong>Filters</strong> to filter allergens.",
-          "fr": "Allergies ? Appuyez sur <strong>Filtres</strong> pour filtrer les allergènes."
+          "es": "¿Tienes alguna alergia? Pulsa <strong>Alérgenos</strong> para filtrar los alérgenos.",
+          "en": "Have allergies? Tap <strong>Allergens</strong> to filter allergens.",
+          "fr": "Allergies ? Appuyez sur <strong>Allergènes</strong> pour filtrer les allergènes."
         }
       },
       "orderHint": {

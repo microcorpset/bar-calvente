@@ -1,0 +1,1760 @@
+{
+  "restaurant": {
+    "name": "Bar Calvente",
+    "tagline": {
+      "es": "Cocina tradicional con alma",
+      "en": "Traditional cuisine with soul",
+      "fr": "Cuisine traditionnelle avec âme",
+      "de": "Traditionelle Küche mit Seele"
+    },
+    "logo": "",
+    "currency": "€",
+    "languages": [
+      "es",
+      "en",
+      "fr"
+    ],
+    "activeLanguages": [
+      "es",
+      "en",
+      "fr"
+    ],
+    "whatsapp": {
+      "enabled": false,
+      "phoneNumber": ""
+    },
+    "allergenSettings": {
+      "Gluten": {
+        "icon": "🌾",
+        "color": "#D4A574",
+        "translations": {
+          "es": "Gluten",
+          "en": "Gluten",
+          "fr": "Gluten"
+        }
+      },
+      "Crustáceos": {
+        "icon": "🦐",
+        "color": "#FF6B6B",
+        "translations": {
+          "es": "Crustáceos",
+          "en": "Shellfish",
+          "fr": "Crustacés"
+        }
+      },
+      "Huevo": {
+        "icon": "🥚",
+        "color": "#FFD93D",
+        "translations": {
+          "es": "Huevo",
+          "en": "Egg",
+          "fr": "Œuf"
+        }
+      },
+      "Pescado": {
+        "icon": "🐟",
+        "color": "#6B9BD1",
+        "translations": {
+          "es": "Pescado",
+          "en": "Fish",
+          "fr": "Poisson"
+        }
+      },
+      "Frutos secos": {
+        "icon": "🌰",
+        "color": "#8B6914",
+        "translations": {
+          "es": "Frutos secos",
+          "en": "Nuts",
+          "fr": "Fruits à coque"
+        }
+      },
+      "Lácteos": {
+        "icon": "🥛",
+        "color": "#E0E0E0",
+        "translations": {
+          "es": "Lácteos",
+          "en": "Dairy",
+          "fr": "Laitier"
+        }
+      },
+      "Moluscos": {
+        "icon": "🦪",
+        "color": "#FF99C8",
+        "translations": {
+          "es": "Moluscos",
+          "en": "Molluscs",
+          "fr": "Mollusques"
+        }
+      },
+      "Sulfitos": {
+        "icon": "⚗️",
+        "color": "#9D4EDD",
+        "translations": {
+          "es": "Sulfitos",
+          "en": "Sulphites",
+          "fr": "Sulfites"
+        }
+      },
+      "Sésamo": {
+        "icon": "⭕",
+        "color": "#C4A747",
+        "translations": {
+          "es": "Sésamo",
+          "en": "Sesame",
+          "fr": "Sésame"
+        }
+      }
+    },
+    "allergenNotice": {
+      "enabled": true,
+      "text": {
+        "es": "⚠️ Si tiene alguna alergia o intolerancia, infórmenos antes de pedir. IVA incluido.",
+        "en": "⚠️ If you have any food allergy or intolerance, please inform our staff. VAT included.",
+        "fr": "⚠️ En cas d'allergie ou intolérance, informez notre personnel. TVA incluse."
+      }
+    },
+    "translations": {
+      "es": {
+        "tableNumber": "Mesa",
+        "tableNumberRequired": "Selecciona tu mesa",
+        "sendWhatsApp": "Enviar por WhatsApp",
+        "clearOrder": "Vaciar pedido",
+        "total": "Total",
+        "emptyOrder": "Tu pedido está vacío"
+      },
+      "en": {
+        "tableNumber": "Table",
+        "tableNumberRequired": "Please select your table",
+        "sendWhatsApp": "Send via WhatsApp",
+        "clearOrder": "Clear order",
+        "total": "Total",
+        "emptyOrder": "Your order is empty"
+      },
+      "fr": {
+        "tableNumber": "Table",
+        "tableNumberRequired": "Sélectionnez votre table",
+        "sendWhatsApp": "Envoyer via WhatsApp",
+        "clearOrder": "Vider la commande",
+        "total": "Total",
+        "emptyOrder": "Votre commande est vide"
+      }
+    },
+    "messages": [],
+    "developer": {
+      "name": "JON GLEZ",
+      "tagline": {
+        "es": "Desarrollo web y cartas digitales",
+        "en": "Web dev & digital menus",
+        "fr": "Développement web et menus"
+      },
+      "copyright": "2025",
+      "showInLangModal": true,
+      "buttons": [
+        {
+          "label": "WhatsApp",
+          "icon": "💬",
+          "url": "https://wa.me/34644700830",
+          "style": "wa",
+          "enabled": true
+        }
+      ]
+    },
+    "headerImage": "",
+    "headerImageOpacity": "0.28",
+    "googleAnalyticsId": "",
+    "tableCodes": {
+      "enabled": false,
+      "tables": {}
+    },
+    "onboardingHints": {
+      "enabled": true,
+      "delayAfterLangSelect": 800,
+      "allergenHint": {
+        "enabled": true,
+        "icon": "🔍",
+        "text": {
+          "es": "¿Tienes alguna alergia? Pulsa <strong>Filtros</strong> para filtrar los alérgenos.",
+          "en": "Have allergies? Tap <strong>Filters</strong> to filter allergens.",
+          "fr": "Allergies ? Appuyez sur <strong>Filtres</strong> pour filtrer les allergènes."
+        }
+      },
+      "orderHint": {
+        "enabled": true,
+        "icon": "🛒",
+        "text": {
+          "es": "Pulsa <strong>+</strong> para añadir platos a tu lista y mostrarla al camarero.",
+          "en": "Tap <strong>+</strong> to add dishes to your list and show it to the waiter.",
+          "fr": "Appuyez sur <strong>+</strong> pour ajouter des plats et montrer la liste au serveur."
+        }
+      }
+    },
+    "location": {
+      "name": "Bar Calvente",
+      "address": "",
+      "lat": 0,
+      "lng": 0,
+      "googleMapsUrl": "",
+      "shareMessage": {
+        "es": "",
+        "en": "",
+        "fr": ""
+      }
+    }
+  },
+  "categories": [
+    {
+      "id": "tapas",
+      "name": {
+        "es": "Tapas",
+        "en": "Tapas",
+        "fr": "Tapas"
+      },
+      "emoji": "🥘",
+      "schedule": {
+        "defaultVisible": false,
+        "rules": [
+          {
+            "days": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              0
+            ],
+            "from": "00:00",
+            "to": "23:59",
+            "visible": true
+          }
+        ]
+      },
+      "note": {
+        "es": "Excepto fines de semana y festivos",
+        "en": "Except weekends and holidays",
+        "fr": "Sauf week-ends et jours fériés"
+      }
+    },
+    {
+      "id": "frios",
+      "name": {
+        "es": "Platos Fríos",
+        "en": "Cold Dishes",
+        "fr": "Plats Froids"
+      },
+      "emoji": "🥗"
+    },
+    {
+      "id": "compartir",
+      "name": {
+        "es": "Para Compartir",
+        "en": "To Share",
+        "fr": "À Partager"
+      },
+      "emoji": "🍽️"
+    },
+    {
+      "id": "calientes",
+      "name": {
+        "es": "Platos Calientes",
+        "en": "Hot Dishes",
+        "fr": "Plats Chauds"
+      },
+      "emoji": "🔥"
+    },
+    {
+      "id": "pescado",
+      "name": {
+        "es": "Pescado",
+        "en": "Fish",
+        "fr": "Poisson"
+      },
+      "emoji": "🐟"
+    },
+    {
+      "id": "postres",
+      "name": {
+        "es": "Postres",
+        "en": "Desserts",
+        "fr": "Desserts"
+      },
+      "emoji": "🍮"
+    },
+    {
+      "id": "infantil",
+      "name": {
+        "es": "Menú Infantil",
+        "en": "Kids Menu",
+        "fr": "Menu Enfant"
+      },
+      "emoji": "👶"
+    }
+  ],
+  "items": [
+    {
+      "id": "t1",
+      "category": "tapas",
+      "name": {
+        "es": "Queso Payoyo",
+        "en": "Payoyo Cheese",
+        "fr": "Fromage Payoyo"
+      },
+      "description": {
+        "es": "Queso de cabra y oveja Payoyo, elaborado artesanalmente en la Sierra de Cádiz.",
+        "en": "Payoyo artisan goat and sheep cheese from the Sierra de Cádiz.",
+        "fr": "Fromage artisanal de chèvre et brebis Payoyo de la Sierra de Cádiz."
+      },
+      "price": 3.0,
+      "image": "https://media.istockphoto.com/id/1340439479/es/foto/arreglo-de-rodajas-de-queso-piment%C3%B3n-ahumado-a-medio-curado.jpg?s=612x612&w=0&k=20&c=CtN1WCDXLDvEbFcuVZs1qcG4Hu_xXLYpd-kzI4n6vqE=",
+      "allergens": {
+        "es": [
+          "Lácteos"
+        ],
+        "en": [
+          "Dairy"
+        ],
+        "fr": [
+          "Laitier"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t2",
+      "category": "tapas",
+      "name": {
+        "es": "Piruleta de Queso con Confitura de Frambuesa",
+        "en": "Cheese Lollipop with Raspberry Jam",
+        "fr": "Sucette de Fromage à la Confiture de Framboises"
+      },
+      "description": {
+        "es": "Piruleta de queso rebozada y frita, servida con confitura artesanal de frambuesa.",
+        "en": "Fried breaded cheese lollipop served with homemade raspberry jam.",
+        "fr": "Sucette de fromage panée et frite, servie avec confiture de framboises."
+      },
+      "price": 5.0,
+      "image": "./images/piruleta_dequeso.jpg",
+      "allergens": {
+        "es": [
+          "Lácteos",
+          "Gluten",
+          "Huevo",
+          "Frutos secos",
+          "Sésamo"
+        ],
+        "en": [
+          "Dairy",
+          "Gluten",
+          "Egg",
+          "Nuts",
+          "Sesame"
+        ],
+        "fr": [
+          "Laitier",
+          "Gluten",
+          "Œuf",
+          "Fruits à coque",
+          "Sésame"
+        ]
+      },
+      "tags": {
+        "es": [
+          "Recomendado"
+        ],
+        "en": [
+          "Recommended"
+        ],
+        "fr": [
+          "Recommandé"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t3",
+      "category": "tapas",
+      "name": {
+        "es": "Flor de Queso",
+        "en": "Cheese Rosette",
+        "fr": "Rosace de Fromage"
+      },
+      "description": {
+        "es": "Delicada flor de queso Payoyo presentada con aceite de oliva virgen extra.",
+        "en": "Delicate Payoyo cheese rosette presented with extra virgin olive oil.",
+        "fr": "Délicate rosace de fromage Payoyo présentée à l'huile d'olive extra vierge."
+      },
+      "price": 4.0,
+      "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=600&q=80",
+      "allergens": {
+        "es": [
+          "Lácteos"
+        ],
+        "en": [
+          "Dairy"
+        ],
+        "fr": [
+          "Laitier"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t4",
+      "category": "tapas",
+      "name": {
+        "es": "Berenjenas con Queso de Cabra y Miel de Caña",
+        "en": "Aubergines with Goat Cheese and Cane Honey",
+        "fr": "Aubergines au Fromage de Chèvre et Miel de Canne"
+      },
+      "description": {
+        "es": "Berenjenas fritas en tempura ligera, queso de cabra fundido y miel de caña de la tierra.",
+        "en": "Lightly battered fried aubergines with melted goat cheese and local cane honey.",
+        "fr": "Aubergines frites en tempura légère, fromage de chèvre fondu et miel de canne local."
+      },
+      "price": 3.5,
+      "image": "./images/berenjena.jpg",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "tags": {
+        "es": [
+          "Popular"
+        ],
+        "en": [
+          "Popular"
+        ],
+        "fr": [
+          "Populaire"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t5",
+      "category": "tapas",
+      "name": {
+        "es": "Pastela de Pollo con Almendras Caramelizadas y Azahar",
+        "en": "Chicken Pastry with Caramelized Almonds and Orange Blossom",
+        "fr": "Pastilla de Poulet aux Amandes Caramélisées et Fleur d'Oranger"
+      },
+      "description": {
+        "es": "Hojaldre crujiente relleno de pollo especiado, almendras caramelizadas y agua de azahar.",
+        "en": "Crispy pastry filled with spiced chicken, caramelized almonds and orange blossom water.",
+        "fr": "Pâte feuilletée croustillante farcie de poulet épicé, amandes caramélisées et eau de fleur d'oranger."
+      },
+      "price": 4.0,
+      "image": "./images/pastela.jpg",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Frutos secos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Nuts",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Fruits à coque",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t6",
+      "category": "tapas",
+      "name": {
+        "es": "Carrillada al Pedro Ximénez",
+        "en": "Pork Cheek with Pedro Ximénez",
+        "fr": "Joue de Porc au Pedro Ximénez"
+      },
+      "description": {
+        "es": "Carrillada de cerdo ibérico estofada lentamente en vino Pedro Ximénez hasta conseguir una textura melosa.",
+        "en": "Iberian pork cheek slow-braised in Pedro Ximénez wine until melt-in-your-mouth tender.",
+        "fr": "Joue de porc ibérique mijotée lentement dans du vin Pedro Ximénez, fondante en bouche."
+      },
+      "price": 4.0,
+      "image": "./images/carrillada.jpg",
+      "tags": {
+        "es": [
+          "Especialidad"
+        ],
+        "en": [
+          "Speciality"
+        ],
+        "fr": [
+          "Spécialité"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Sulfitos"
+        ],
+        "en": [
+          "Sulphites"
+        ],
+        "fr": [
+          "Sulfites"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t7",
+      "category": "tapas",
+      "name": {
+        "es": "Montadito de Filete",
+        "en": "Steak Sandwich",
+        "fr": "Sandwich au Steak"
+      },
+      "description": {
+        "es": "Pequeño bocadillo de filete de ternera a la plancha sobre pan de mollete.",
+        "en": "Small grilled beef fillet sandwich on soft mollete bread.",
+        "fr": "Petit sandwich de filet de veau grillé sur pain mollete moelleux."
+      },
+      "price": 2.5,
+      "image": "",
+      "allergens": {
+        "es": [
+          "Gluten"
+        ],
+        "en": [
+          "Gluten"
+        ],
+        "fr": [
+          "Gluten"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t8",
+      "category": "tapas",
+      "name": {
+        "es": "Montadito de Calamares Bravos",
+        "en": "Bravos Squid Sandwich",
+        "fr": "Sandwich de Calmars Bravos"
+      },
+      "description": {
+        "es": "Calamares rebozados y fritos con salsa bravos sobre mollete.",
+        "en": "Battered fried squid with brava sauce on soft mollete bread.",
+        "fr": "Calmars panés et frits avec sauce brava sur pain mollete."
+      },
+      "price": 3.5,
+      "image": "https://media.istockphoto.com/id/2149065290/es/foto/calamares-fritos-en-pan-con-verduras-al-lado-bocadillo-de-calamares.webp?a=1&b=1&s=612x612&w=0&k=20&c=hO2hzmCaMu-eGj-nKQimclxUXkdJEIiN92o6KroSw0E=",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Moluscos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Molluscs",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Mollusques",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t9",
+      "category": "tapas",
+      "name": {
+        "es": "Montadito de Chorizo con Huevo",
+        "en": "Chorizo and Egg Sandwich",
+        "fr": "Petit Sandwich au Chorizo avec Œuf"
+      },
+      "description": {
+        "es": "Chorizo ibérico frito con huevo de campo sobre mollete artesano.",
+        "en": "Fried Iberian chorizo with free-range egg on artisan mollete bread.",
+        "fr": "Chorizo ibérique frit avec œuf de ferme sur pain mollete artisanal."
+      },
+      "price": 4.0,
+      "image": "./images/masita.jpg",
+      "tags": {
+        "es": [
+          "Popular"
+        ],
+        "en": [
+          "Popular"
+        ],
+        "fr": [
+          "Populaire"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t10",
+      "category": "tapas",
+      "name": {
+        "es": "Montadito de Panceta con Huevo",
+        "en": "Bacon and Egg Sandwich",
+        "fr": "Petit Sandwich de Lard avec Œuf"
+      },
+      "description": {
+        "es": "Panceta crujiente a la plancha con huevo frito sobre mollete.",
+        "en": "Grilled crispy bacon with fried egg on soft mollete bread.",
+        "fr": "Lard grillé croustillant avec œuf au plat sur pain mollete."
+      },
+      "price": 4.0,
+      "image": "./images/pancetahuevo.png",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t11",
+      "category": "tapas",
+      "name": {
+        "es": "Mini Ensalada de Queso de Cabra con Frutos Secos y Miel",
+        "en": "Small Goat Cheese Salad with Nuts and Honey",
+        "fr": "Petite Salade de Chèvre aux Fruits Secs et Miel"
+      },
+      "description": {
+        "es": "Mezclum de hojas con queso de cabra templado, frutos secos y vinagreta de miel.",
+        "en": "Mixed greens with warm goat cheese, nuts and honey vinaigrette.",
+        "fr": "Mélange de feuilles avec fromage de chèvre tiède, fruits secs et vinaigrette au miel."
+      },
+      "price": 6.0,
+      "image": "./images/mini_queso.jpg",
+      "allergens": {
+        "es": [
+          "Lácteos",
+          "Frutos secos"
+        ],
+        "en": [
+          "Dairy",
+          "Nuts"
+        ],
+        "fr": [
+          "Laitier",
+          "Fruits à coque"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "t12",
+      "category": "tapas",
+      "name": {
+        "es": "Mini Ensalada Mixta con Frutos Secos",
+        "en": "Small Mixed Greens Salad with Nuts",
+        "fr": "Petite Salade Mixte aux Fruits Secs"
+      },
+      "description": {
+        "es": "Ensalada mixta con frutos secos, atún y vinagreta ligera.",
+        "en": "Mixed greens with dried fruits, nuts, tuna and light vinaigrette.",
+        "fr": "Salade de crudités avec fruits secs, thon et vinaigrette légère."
+      },
+      "price": 5.0,
+      "image": "",
+      "allergens": {
+        "es": [
+          "Frutos secos",
+          "Pescado"
+        ],
+        "en": [
+          "Nuts",
+          "Fish"
+        ],
+        "fr": [
+          "Fruits à coque",
+          "Poisson"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "f1",
+      "category": "frios",
+      "name": {
+        "es": "Ensalada Mixta con Frutos Secos",
+        "en": "Mixed Salad with Nuts",
+        "fr": "Salade Mixte aux Noix"
+      },
+      "description": {
+        "es": "Variedad de hojas, frutos secos, zanahoria y tomate cherry con vinagreta de la casa.",
+        "en": "Mixed leaves, nuts, carrots and cherry tomato with house vinaigrette.",
+        "fr": "Mélange de feuilles, noix, carottes et tomate cerise avec vinaigrette maison."
+      },
+      "price": 9.0,
+      "image": "",
+      "allergens": {
+        "es": [
+          "Frutos secos"
+        ],
+        "en": [
+          "Nuts"
+        ],
+        "fr": [
+          "Fruits à coque"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "f2",
+      "category": "frios",
+      "name": {
+        "es": "Ensalada de Queso de Cabra con Frutos Secos y Miel",
+        "en": "Goat Cheese Salad with Nuts and Honey",
+        "fr": "Salade de Fromage de Chèvre aux Noix et Miel"
+      },
+      "description": {
+        "es": "Mezclum de hojas con queso de cabra templado, frutos secos y miel.",
+        "en": "Mixed leaves with warm goat cheese, nuts and honey.",
+        "fr": "Mélange de feuilles avec fromage de chèvre tiède, noix et miel."
+      },
+      "price": 10.0,
+      "image": "./images/ensalada_queso.png",
+      "allergens": {
+        "es": [
+          "Lácteos",
+          "Frutos secos"
+        ],
+        "en": [
+          "Dairy",
+          "Nuts"
+        ],
+        "fr": [
+          "Laitier",
+          "Fruits à coque"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "f3",
+      "category": "frios",
+      "name": {
+        "es": "Tomate Rosa con Melva y Sal Negra",
+        "en": "Pink Tomato with Tuna Belly and Black Salt",
+        "fr": "Tomate Rose à la Ventrèche de Thon et Sel Noir"
+      },
+      "description": {
+        "es": "Tomate rosa en rodajas con melva de calidad, sal negra del Himalaya y AOVE.",
+        "en": "Pink tomato slices with premium tuna belly, black Himalayan salt and EVOO.",
+        "fr": "Tomates roses en tranches avec ventrèche de thon, sel noir de l'Himalaya et HOVE."
+      },
+      "price": 14.0,
+      "image": "./images/tomate_rosa.jpg",
+      "tags": {
+        "es": [
+          "Temporada"
+        ],
+        "en": [
+          "Seasonal"
+        ],
+        "fr": [
+          "Saison"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Pescado"
+        ],
+        "en": [
+          "Fish"
+        ],
+        "fr": [
+          "Poisson"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "f4",
+      "category": "frios",
+      "name": {
+        "es": "Tabla de Queso Payoyo con Confitura de Higo",
+        "en": "Table of Payoyo Cheese with Fig Jam",
+        "fr": "Plateau de Fromage Payoyo à la Confiture de Figues"
+      },
+      "description": {
+        "es": "Selección de queso Payoyo en sus distintas variedades con confitura artesanal de higo.",
+        "en": "Selection of Payoyo cheese varieties with homemade fig jam.",
+        "fr": "Sélection de fromages Payoyo en différentes variétés avec confiture de figues maison."
+      },
+      "price": 12.0,
+      "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=600&q=80",
+      "allergens": {
+        "es": [
+          "Lácteos"
+        ],
+        "en": [
+          "Dairy"
+        ],
+        "fr": [
+          "Laitier"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "f5",
+      "category": "frios",
+      "name": {
+        "es": "Ensalada de Aguacate y Langostinos",
+        "en": "Avocado and King Prawn Salad",
+        "fr": "Salade d'Avocat et Crevettes"
+      },
+      "description": {
+        "es": "Ensalada fresca con aguacate cremoso, langostinos cocidos, mezclum de hojas y vinagreta cítrica.",
+        "en": "Fresh salad with creamy avocado, king prawns, mixed leaves and citrus vinaigrette.",
+        "fr": "Salade fraîche avec avocat crémeux, grosses crevettes, mélange de feuilles et vinaigrette citronnée."
+      },
+      "price": 9.5,
+      "image": "",
+      "tags": {
+        "es": [
+          "Nuevo",
+          "Recomendado"
+        ],
+        "en": [
+          "New",
+          "Recommended"
+        ],
+        "fr": [
+          "Nouveau",
+          "Recommandé"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Crustáceos"
+        ],
+        "en": [
+          "Shellfish"
+        ],
+        "fr": [
+          "Crustacés"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "c1",
+      "category": "compartir",
+      "name": {
+        "es": "Migas de la Casa",
+        "en": "Homemade Toasted Breadcrumbs",
+        "fr": "Chapelure Grillée Maison"
+      },
+      "description": {
+        "es": "Migas tradicionales andaluzas con su guarnición de chorizo, pimiento y uvas. Plato de la tierra.",
+        "en": "Traditional Andalusian toasted breadcrumbs with chorizo, pepper and grapes. A local classic.",
+        "fr": "Chapelure grillée traditionnelle andalouse avec chorizo, poivron et raisins. Plat du terroir."
+      },
+      "price": 8.0,
+      "image": "https://media.istockphoto.com/id/1517235966/es/foto/plato-t%C3%ADpico-espa%C3%B1ol-llamado-migas-extreme%C3%B1as-hecho-con-migas-carne-piment%C3%B3n-huevo-aceite-y-ajo.webp?a=1&b=1&s=612x612&w=0&k=20&c=_wr2q851_kwUbe24DCUoybG8F8uN0uGE1Bi98mcmOn0=",
+      "allergens": {
+        "es": [
+          "Gluten"
+        ],
+        "en": [
+          "Gluten"
+        ],
+        "fr": [
+          "Gluten"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "c2",
+      "category": "compartir",
+      "name": {
+        "es": "Berenjenas con Queso de Cabra y Miel de Caña",
+        "en": "Fried Aubergines with Goat Cheese and Cane Honey",
+        "fr": "Aubergines Frites au Fromage de Chèvre et Miel de Canne"
+      },
+      "description": {
+        "es": "Ración de berenjenas fritas en tempura, con queso de cabra fundido y miel de caña. Ideal para compartir.",
+        "en": "Portion of tempura-battered fried aubergines with melted goat cheese and cane honey. Perfect for sharing.",
+        "fr": "Portion d'aubergines frites en tempura avec fromage de chèvre fondu et miel de canne. Idéal à partager."
+      },
+      "price": 12.0,
+      "image": "./images/berenjenas_queso.png",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "c3",
+      "category": "compartir",
+      "name": {
+        "es": "Piruleta de Queso de Cabra con Mermelada",
+        "en": "Goat Cheese Lollipop with Jam",
+        "fr": "Sucette de Chèvre à la Confiture"
+      },
+      "description": {
+        "es": "Piruletas de queso de cabra rebozadas, fritas y servidas con mermelada artesanal.",
+        "en": "Breaded fried goat cheese lollipops served with homemade jam.",
+        "fr": "Sucettes de chèvre panées et frites, servies avec confiture artisanale."
+      },
+      "price": 12.0,
+      "image": "./images/piruleta_dequeso.jpg",
+      "allergens": {
+        "es": [
+          "Lácteos",
+          "Gluten",
+          "Huevo"
+        ],
+        "en": [
+          "Dairy",
+          "Gluten",
+          "Egg"
+        ],
+        "fr": [
+          "Laitier",
+          "Gluten",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "c4",
+      "category": "compartir",
+      "name": {
+        "es": "Patatas Bravas",
+        "en": "Bravas Potatoes",
+        "fr": "Pommes de Terre Bravas"
+      },
+      "description": {
+        "es": "Patatas fritas crujientes con salsa brava picante y alioli de la casa.",
+        "en": "Crispy fried potatoes with spicy brava sauce and homemade alioli.",
+        "fr": "Pommes de terre frites croustillantes avec sauce brava piquante et aïoli maison."
+      },
+      "price": 8.0,
+      "image": "https://media.istockphoto.com/id/172798556/es/foto/espa%C3%B1ol-im%C3%A1genes-fijas-tapas-patatas-bravas.webp?a=1&b=1&s=612x612&w=0&k=20&c=r0mB1Dgz5Qu09H05xZOvPCsFmqeodzAbul7EHW6vnCw=",
+      "tags": {
+        "es": [
+          "Popular",
+          "Vegetariano"
+        ],
+        "en": [
+          "Popular",
+          "Vegetarian"
+        ],
+        "fr": [
+          "Populaire",
+          "Végétarien"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Huevo"
+        ],
+        "en": [
+          "Egg"
+        ],
+        "fr": [
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca1",
+      "category": "calientes",
+      "name": {
+        "es": "Pastelas de Pollo, Almendras y Azahar",
+        "en": "Chicken Pastries with Almonds and Orange Blossom",
+        "fr": "Feuilletés de Poulet aux Amandes et Fleur d'Oranger"
+      },
+      "description": {
+        "es": "Hojaldres crujientes rellenos de pollo especiado con almendras y agua de azahar. Inspiración marroquí.",
+        "en": "Crispy pastries filled with spiced chicken, almonds and orange blossom water. Moroccan inspiration.",
+        "fr": "Feuilletés croustillants farcis de poulet épicé, amandes et eau de fleur d'oranger. Inspiration marocaine."
+      },
+      "price": 12.0,
+      "image": "./images/pastelas.png",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Frutos secos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Nuts",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Fruits à coque",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca2",
+      "category": "calientes",
+      "name": {
+        "es": "Costillar en Salsa Barbacoa con su Guarnición",
+        "en": "Ribs in Barbecue Sauce with Garnish",
+        "fr": "Côtes Levées Sauce Barbecue avec sa Garniture"
+      },
+      "description": {
+        "es": "Costillar de cerdo ibérico lacado con salsa barbacoa casera y acompañado de su guarnición.",
+        "en": "Iberian pork ribs glazed with homemade barbecue sauce and served with garnish.",
+        "fr": "Côtes de porc ibérique laquées à la sauce barbecue maison et leur garniture."
+      },
+      "price": 14.0,
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+      "allergens": {
+        "es": [
+          "Sulfitos"
+        ],
+        "en": [
+          "Sulphites"
+        ],
+        "fr": [
+          "Sulfites"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca3",
+      "category": "calientes",
+      "name": {
+        "es": "Surtido de Croquetas Caseras",
+        "en": "Assortment of Homemade Croquettes",
+        "fr": "Assortiment de Croquettes Maison"
+      },
+      "description": {
+        "es": "Selección de croquetas caseras con distintos rellenos: jamón, bacalao, espinacas... Crujientes por fuera, cremosas por dentro.",
+        "en": "Selection of homemade croquettes with various fillings: ham, cod, spinach... Crispy outside, creamy inside.",
+        "fr": "Sélection de croquettes maison aux garnitures variées : jambon, morue, épinards... Croustillantes dehors, crémeuses dedans."
+      },
+      "price": 10.0,
+      "image": "",
+      "tags": {
+        "es": [
+          "Popular",
+          "Recomendado"
+        ],
+        "en": [
+          "Popular",
+          "Recommended"
+        ],
+        "fr": [
+          "Populaire",
+          "Recommandé"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo",
+          "Pescado"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg",
+          "Fish"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf",
+          "Poisson"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca4",
+      "category": "calientes",
+      "name": {
+        "es": "Churrasco Ibérico",
+        "en": "Iberian Pork Fillet",
+        "fr": "Filet de Porc Ibérique"
+      },
+      "description": {
+        "es": "Churrasco de cerdo ibérico a la brasa con su punto exacto de cocción.",
+        "en": "Grilled Iberian pork fillet cooked to perfection.",
+        "fr": "Filet de porc ibérique grillé au barbecue, cuit à la perfection."
+      },
+      "price": 10.0,
+      "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=600&q=80",
+      "allergens": {
+        "es": [],
+        "en": [],
+        "fr": []
+      },
+      "available": true
+    },
+    {
+      "id": "ca5",
+      "category": "calientes",
+      "name": {
+        "es": "Carrillada al Pedro Ximénez",
+        "en": "Pork Cheek in Pedro Ximénez Sauce",
+        "fr": "Joue de Porc au Pedro Ximénez"
+      },
+      "description": {
+        "es": "Carrillada de cerdo ibérico estofada en vino Pedro Ximénez, con guarnición de puré de patata.",
+        "en": "Iberian pork cheek braised in Pedro Ximénez wine, served with mashed potato.",
+        "fr": "Joue de porc ibérique mijotée dans du vin Pedro Ximénez, avec purée de pomme de terre."
+      },
+      "price": 14.0,
+      "image": "./images/carrillada.png",
+      "tags": {
+        "es": [
+          "Especialidad"
+        ],
+        "en": [
+          "Speciality"
+        ],
+        "fr": [
+          "Spécialité"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Sulfitos"
+        ],
+        "en": [
+          "Sulphites"
+        ],
+        "fr": [
+          "Sulfites"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca6",
+      "category": "calientes",
+      "name": {
+        "es": "Plato Campero",
+        "en": "Campero Dish",
+        "fr": "Assiette Campero"
+      },
+      "description": {
+        "es": "Filetes, huevo, patatas, pimiento y chorizo. Un plato contundente de la tierra.",
+        "en": "Steaks, egg, potatoes, pepper and chorizo. A hearty local classic.",
+        "fr": "Steaks, œuf, pommes de terre, poivron et chorizo. Un plat copieux du terroir."
+      },
+      "price": 10.0,
+      "image": "./images/plato_campero.png",
+      "tags": {
+        "es": [
+          "Popular"
+        ],
+        "en": [
+          "Popular"
+        ],
+        "fr": [
+          "Populaire"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Huevo"
+        ],
+        "en": [
+          "Egg"
+        ],
+        "fr": [
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca7",
+      "category": "calientes",
+      "name": {
+        "es": "Parrillada Ibérica para 2 Personas",
+        "en": "Iberian Barbecue for 2 People",
+        "fr": "Barbecue Ibérique pour 2 Personnes"
+      },
+      "description": {
+        "es": "Selección de carnes ibéricas a la brasa para dos personas, con guarnición.",
+        "en": "Selection of grilled Iberian meats for two people, with garnish.",
+        "fr": "Sélection de viandes ibériques grillées pour deux personnes, avec garniture."
+      },
+      "price": 20.0,
+      "image": "./images/parrillada2.png",
+      "allergens": {
+        "es": [],
+        "en": [],
+        "fr": []
+      },
+      "available": true
+    },
+    {
+      "id": "ca8",
+      "category": "calientes",
+      "name": {
+        "es": "Parrillada Ibérica para 4 Personas",
+        "en": "Iberian Barbecue for 4 People",
+        "fr": "Barbecue Ibérique pour 4 Personnes"
+      },
+      "description": {
+        "es": "Gran selección de carnes ibéricas a la brasa para cuatro personas, con guarnición.",
+        "en": "Large selection of grilled Iberian meats for four people, with garnish.",
+        "fr": "Grande sélection de viandes ibériques grillées pour quatre personnes, avec garniture."
+      },
+      "price": 38.0,
+      "image": "./images/parrillada.png",
+      "allergens": {
+        "es": [],
+        "en": [],
+        "fr": []
+      },
+      "available": true
+    },
+    {
+      "id": "ca9",
+      "category": "calientes",
+      "name": {
+        "es": "Rabo de Toro",
+        "en": "Bull's Tail Stew",
+        "fr": "Queue de Taureau"
+      },
+      "description": {
+        "es": "Rabo de toro estofado lentamente con verduras y vino tinto hasta conseguir una carne melosa.",
+        "en": "Bull's tail slowly braised with vegetables and red wine until falling-off-the-bone tender.",
+        "fr": "Queue de taureau mijotée lentement avec légumes et vin rouge, fondante en bouche."
+      },
+      "price": 15.0,
+      "image": "https://media.istockphoto.com/id/810746856/es/foto/plato-de-cola-de-toro-con-patatas-fritas-en-la-mesa-de-madera.webp?a=1&b=1&s=612x612&w=0&k=20&c=04fBA-y8Biv5gfddiHcjGOewbJ6JrQxSpdrwCfkmlhY=",
+      "tags": {
+        "es": [
+          "Especialidad"
+        ],
+        "en": [
+          "Speciality"
+        ],
+        "fr": [
+          "Spécialité"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Sulfitos"
+        ],
+        "en": [
+          "Sulphites"
+        ],
+        "fr": [
+          "Sulfites"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "ca10",
+      "category": "calientes",
+      "name": {
+        "es": "Croquetas de Jamón Ibérico con Mayonesa de Trufas y Escamas de Jamón",
+        "en": "Iberian Ham Croquettes with Truffle Mayo and Ham Shavings",
+        "fr": "Croquettes de Jambon Ibérique avec Mayonnaise à la Truffe"
+      },
+      "description": {
+        "es": "Croquetas de jamón ibérico con bechamel cremosa, servidas con mayonesa de trufa y virutas de jamón.",
+        "en": "Iberian ham croquettes with creamy béchamel, served with truffle mayonnaise and ham shavings.",
+        "fr": "Croquettes de jambon ibérique à la béchamel crémeuse, avec mayonnaise à la truffe et éclats de jambon."
+      },
+      "price": 10.0,
+      "image": "",
+      "tags": {
+        "es": [
+          "Recomendado"
+        ],
+        "en": [
+          "Recommended"
+        ],
+        "fr": [
+          "Recommandé"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "p1",
+      "category": "pescado",
+      "name": {
+        "es": "Buñuelos de Bacalao",
+        "en": "Cod Fritters",
+        "fr": "Beignets de Morue"
+      },
+      "description": {
+        "es": "Buñuelos de bacalao esponjosos y dorados, crujientes por fuera y jugosos por dentro.",
+        "en": "Light and fluffy cod fritters, golden and crispy outside, moist inside.",
+        "fr": "Beignets de morue légers et moelleux, dorés et croustillants dehors, juteux dedans."
+      },
+      "price": 10.0,
+      "image": "https://media.istockphoto.com/id/2148612995/es/foto/pataniscas-bacalao-frito.webp?a=1&b=1&s=612x612&w=0&k=20&c=YJDXwC4N22D2kM2htEcGrOY8OxTkiGyPgDq-zXDueF4=",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Pescado",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Fish",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Poisson",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "p2",
+      "category": "pescado",
+      "name": {
+        "es": "Calamares con Ensalada de Guarnición",
+        "en": "Squid with Side Salad",
+        "fr": "Calmars avec Salade d'Accompagnement"
+      },
+      "description": {
+        "es": "Calamares a la plancha o fritos acompañados de ensalada fresca de guarnición.",
+        "en": "Grilled or fried squid accompanied by a fresh side salad.",
+        "fr": "Calmars grillés ou frits accompagnés d'une salade fraîche d'accompagnement."
+      },
+      "price": 12.0,
+      "image": "https://images.unsplash.com/photo-1678919665999-957d38bf1762?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhbGFtYXJlcyUyMGNvbiUyMGVuc2FsYWRhfGVufDB8fDB8fHww",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Moluscos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Molluscs",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Mollusques",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "p3",
+      "category": "pescado",
+      "name": {
+        "es": "Bacalao a la Vizcaína con Mejillones y Gambas",
+        "en": "Cod Basque-Style with Mussels and Prawns",
+        "fr": "Morue à la Vizcaína avec Moules et Crevettes"
+      },
+      "description": {
+        "es": "Bacalao desalado cocinado en salsa vizcaína tradicional con mejillones y gambas.",
+        "en": "Desalted cod cooked in traditional Basque Vizcaína sauce with mussels and prawns.",
+        "fr": "Morue dessalée cuite en sauce vizcaína traditionnelle avec moules et crevettes."
+      },
+      "price": 14.0,
+      "image": "",
+      "allergens": {
+        "es": [
+          "Pescado",
+          "Moluscos",
+          "Crustáceos"
+        ],
+        "en": [
+          "Fish",
+          "Molluscs",
+          "Shellfish"
+        ],
+        "fr": [
+          "Poisson",
+          "Mollusques",
+          "Crustacés"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "p4",
+      "category": "pescado",
+      "name": {
+        "es": "Pata de Pulpo con Crema de Patatas",
+        "en": "Octopus Leg with Potato Cream",
+        "fr": "Cuisse de Poulpe à la Crème de Pommes de Terre"
+      },
+      "description": {
+        "es": "Pata de pulpo a la brasa sobre crema suave de patatas, con pimentón de la Vera y AOVE.",
+        "en": "Grilled octopus leg on smooth potato cream, with sweet paprika and EVOO.",
+        "fr": "Cuisse de poulpe grillée sur crème de pommes de terre, avec paprika de la Vera et HOVE."
+      },
+      "price": 22.0,
+      "image": "https://media.istockphoto.com/id/483363548/es/foto/plato-de-pescado-estofado-de-pulpo-en-chickpea-helado-de-caramelo-en.jpg?s=612x612&w=0&k=20&c=h_qY7PIGrVF7S88xbxeV3FOwThHaFvnFhnY67SO7inA=",
+      "tags": {
+        "es": [
+          "Especialidad"
+        ],
+        "en": [
+          "Speciality"
+        ],
+        "fr": [
+          "Spécialité"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Moluscos"
+        ],
+        "en": [
+          "Molluscs"
+        ],
+        "fr": [
+          "Mollusques"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "po1",
+      "category": "postres",
+      "name": {
+        "es": "Torrija Caramelizada con Helado de Canela",
+        "en": "Caramelized French Toast with Cinnamon Ice Cream",
+        "fr": "Pain Perdu Caramélisé avec Glace à la Cannelle"
+      },
+      "description": {
+        "es": "Torrija artesanal empapada en leche y huevo, caramelizada y servida con helado de canela.",
+        "en": "Homemade French toast soaked in milk and egg, caramelized and served with cinnamon ice cream.",
+        "fr": "Pain perdu artisanal imbibé de lait et d'œuf, caramélisé et servi avec glace à la cannelle."
+      },
+      "price": 5.5,
+      "image": "",
+      "tags": {
+        "es": [
+          "Recomendado"
+        ],
+        "en": [
+          "Recommended"
+        ],
+        "fr": [
+          "Recommandé"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "po2",
+      "category": "postres",
+      "name": {
+        "es": "Tapón de Chocolate con Helado de Vainilla",
+        "en": "Chocolate with Vanilla Ice Cream",
+        "fr": "Bouchon de Chocolat avec Glace à la Vanille"
+      },
+      "description": {
+        "es": "Coulant de chocolate con centro fundido, servido con helado de vainilla.",
+        "en": "Chocolate lava cake with molten centre, served with vanilla ice cream.",
+        "fr": "Fondant au chocolat avec cœur coulant, servi avec glace à la vanille."
+      },
+      "price": 5.5,
+      "image": "./images/tapon.png",
+      "tags": {
+        "es": [
+          "Popular"
+        ],
+        "en": [
+          "Popular"
+        ],
+        "fr": [
+          "Populaire"
+        ]
+      },
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "po3",
+      "category": "postres",
+      "name": {
+        "es": "Tapón de Turrón Relleno de Crema de Turrón con Helado de Vainilla y Caramelo",
+        "en": "Nougat Cap with Nougat Cream, Vanilla Ice Cream and Caramel",
+        "fr": "Bouchon de Nougat Fourré à la Crème de Nougat avec Glace Vanille et Caramel"
+      },
+      "description": {
+        "es": "Tapón de turrón relleno de crema de turrón casera, acompañado de helado de vainilla y caramelo líquido.",
+        "en": "Nougat cap filled with homemade nougat cream, served with vanilla ice cream and liquid caramel.",
+        "fr": "Bouchon de nougat fourré à la crème de nougat maison, avec glace à la vanille et caramel liquide."
+      },
+      "price": 6.0,
+      "image": "",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo",
+          "Frutos secos"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg",
+          "Nuts"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf",
+          "Fruits à coque"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "po4",
+      "category": "postres",
+      "name": {
+        "es": "Arroz con Leche Casero y Canela",
+        "en": "Homemade Rice Pudding with Cinnamon",
+        "fr": "Riz au Lait Maison et à la Cannelle"
+      },
+      "description": {
+        "es": "Arroz con leche elaborado de forma tradicional, cremoso y aromatizado con canela en rama.",
+        "en": "Traditional homemade rice pudding, creamy and flavoured with cinnamon stick.",
+        "fr": "Riz au lait traditionnel maison, crémeux et parfumé à la cannelle en bâton."
+      },
+      "price": 4.0,
+      "image": "https://media.istockphoto.com/id/2258518444/es/foto/dos-cuencos-de-gachas-de-arroz-caseras-o-pudin-con-palitos-de-canela-dulce-o-postre.webp?a=1&b=1&s=612x612&w=0&k=20&c=zmqQgHK9f2aRQSpenJT-eOooWOjtTR3UlTipEbvjJ4c=",
+      "allergens": {
+        "es": [
+          "Lácteos"
+        ],
+        "en": [
+          "Dairy"
+        ],
+        "fr": [
+          "Laitier"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "i1",
+      "category": "infantil",
+      "name": {
+        "es": "Lagrimitas, Croquetas de Pollo y Patatas",
+        "en": "Nuggets, Chicken Croquettes and Potatoes",
+        "fr": "Nuggets, Croquettes de Poulet et Pommes de Terre"
+      },
+      "description": {
+        "es": "Mini nuggets de pollo con croquetas caseras de pollo y patatas fritas.",
+        "en": "Mini chicken nuggets with homemade chicken croquettes and fried potatoes.",
+        "fr": "Mini nuggets de poulet avec croquettes de poulet maison et pommes de terre frites."
+      },
+      "price": 8.0,
+      "image": "./images/lagrimitas.png",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "i2",
+      "category": "infantil",
+      "name": {
+        "es": "Filete de Pollo Empanado con Huevo y Patatas",
+        "en": "Breaded Chicken Fillet with Egg and Potatoes",
+        "fr": "Filet de Poulet Pané avec Œuf et Pommes de Terre"
+      },
+      "description": {
+        "es": "Filete de pollo empanado, huevo frito y patatas fritas. El favorito de los más pequeños.",
+        "en": "Breaded chicken fillet, fried egg and chips. The kids' favourite.",
+        "fr": "Filet de poulet pané, œuf au plat et pommes de terre frites. Le préféré des enfants."
+      },
+      "price": 9.0,
+      "image": "https://images.unsplash.com/photo-1682970078535-cd0cf994ee96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZpbGV0ZSUyMHBvbGxvJTIwZW1wYW5hZG98ZW58MHx8MHx8fDA%3D",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Œuf"
+        ]
+      },
+      "available": true
+    },
+    {
+      "id": "i3",
+      "category": "infantil",
+      "name": {
+        "es": "Croquetas Caseras de Pollo con Patatas",
+        "en": "Homemade Chicken Croquettes with Potatoes",
+        "fr": "Croquettes de Poulet Maison avec Pommes de Terre"
+      },
+      "description": {
+        "es": "Croquetas caseras de pollo, crujientes y cremosas, acompañadas de patatas fritas.",
+        "en": "Homemade chicken croquettes, crispy and creamy, served with fried potatoes.",
+        "fr": "Croquettes de poulet maison, croustillantes et crémeuses, avec pommes de terre frites."
+      },
+      "price": 9.0,
+      "image": "https://media.istockphoto.com/id/2176662797/es/foto/croquetas-de-patata-rebozadas-sobre-papel-toalla-despu%C3%A9s-de-fre%C3%ADr.webp?a=1&b=1&s=612x612&w=0&k=20&c=Oeh5nIX9wU9EpVwLK_OrWS7r6HOI6a-sw7V_TwqIkt4=",
+      "allergens": {
+        "es": [
+          "Gluten",
+          "Lácteos",
+          "Huevo"
+        ],
+        "en": [
+          "Gluten",
+          "Dairy",
+          "Egg"
+        ],
+        "fr": [
+          "Gluten",
+          "Laitier",
+          "Œuf"
+        ]
+      },
+      "available": true
+    }
+  ]
+}

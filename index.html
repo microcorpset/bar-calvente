@@ -33,7 +33,6 @@
       overflow-x: hidden;
     }
 
-    /* ── LANGUAGE MODAL ── */
     #lang-modal {
       position: fixed; inset: 0; z-index: 9999;
       background: var(--charcoal);
@@ -73,7 +72,6 @@
     .lang-btn span:first-child { font-size: 1.8rem; }
     .lang-btn small { font-size: 0.75rem; opacity: 0.6; letter-spacing: 0.08em; }
 
-    /* ── OFFER MODAL ── */
     .modal {
       position: fixed; inset: 0; z-index: 9999;
       background: rgba(28,28,26,0.8);
@@ -111,7 +109,6 @@
     }
     .close-modal-btn:hover { color: var(--rust); }
 
-    /* ── HEADER ── */
     header {
       background: var(--charcoal);
       padding: 2.5rem 1.5rem 2rem;
@@ -145,7 +142,6 @@
       margin: 1.2rem auto;
     }
 
-    /* ── TOP BAR ── */
     .top-bar {
       position: sticky; top: 0; z-index: 100;
       background: rgba(245,240,232,0.92);
@@ -193,7 +189,6 @@
       background: var(--charcoal); color: var(--cream); border-color: var(--charcoal);
     }
 
-    /* ── ORDER BADGE ── */
     .order-fab {
       position: fixed; bottom: 1.5rem; right: 1.5rem; z-index: 200;
       background: var(--rust); color: white;
@@ -302,7 +297,6 @@
     }
     .add-btn:hover { background: var(--brown); transform: scale(1.12); }
 
-    /* ── DETAIL PANEL ── */
     #detail-overlay {
       position: fixed; inset: 0; z-index: 500;
       background: rgba(28,28,26,0.7);
@@ -399,7 +393,6 @@
       display: flex; align-items: center; justify-content: center;
     }
 
-    /* ── ORDER PANEL ── */
     #order-overlay {
       position: fixed; inset: 0; z-index: 600;
       background: rgba(28,28,26,0.7);
@@ -511,7 +504,6 @@
     }
     .send-whatsapp-btn:hover { background: #128C7E; }
 
-    /* ── FILTER PANEL ── */
     #filter-overlay {
       position: fixed; inset: 0; z-index: 400;
       background: rgba(28,28,26,0.7);
@@ -648,7 +640,6 @@
       padding-top: 0.8rem; margin-top: 0.5rem;
     }
 
-    /* ── LANG MODAL DEVELOPER FOOTER ── */
     .lang-modal-footer {
       position: absolute; bottom: 1.5rem;
       display: flex; align-items: center; gap: 0.5rem;
@@ -658,7 +649,6 @@
     .lang-modal-footer:hover { color: var(--gold); }
     .lang-modal-footer span { font-size: 0.8rem; }
 
-    /* ── SHARE LOCATION FAB ── */
     .share-fab {
       position: fixed; bottom: 1.5rem; left: 1.5rem; z-index: 200;
       background: var(--charcoal); color: white;
@@ -671,7 +661,6 @@
     }
     .share-fab:hover { transform: scale(1.1); background: var(--brown); }
 
-    /* ── MENU FOOTER ── */
     .menu-footer {
       text-align: center;
       padding: 2rem 1rem 1.5rem;
@@ -686,7 +675,6 @@
     .menu-footer-dev:hover { color: var(--gold); }
     .menu-footer-dev .dot { width: 3px; height: 3px; border-radius: 50%; background: currentColor; }
 
-    /* ── DARK MODE ── */
     body.dark-mode {
       --cream: #141412;
       --warm-white: #1E1E1C;
@@ -717,7 +705,6 @@
     body.dark-mode .menu-footer { border-top-color: rgba(196,144,96,0.15); }
     body.dark-mode .lang-modal-footer { color: #4A4440; }
 
-    /* ── DARK MODE TOGGLE BUTTON ── */
     .dark-toggle {
       background: none; border: 1px solid rgba(139,94,60,0.3);
       border-radius: 50%; width: 34px; height: 34px;
@@ -728,7 +715,6 @@
     }
     .dark-toggle:hover { background: var(--charcoal); color: var(--cream); }
 
-    /* ── HEADER WITH COVER IMAGE ── */
     .header-cover {
       position: absolute; inset: 0;
       background-size: cover; background-position: center;
@@ -739,7 +725,6 @@
       background: linear-gradient(to bottom, rgba(28,28,26,0.4), rgba(28,28,26,0.85));
     }
 
-    /* ── ITEM BADGES ── */
     .item-badges {
       position: absolute; top: 0.6rem; left: 0.6rem;
       display: flex; flex-direction: column; gap: 0.3rem; z-index: 2;
@@ -755,7 +740,6 @@
     .item-badge.especial { background: #9D4EDD; color: white; }
     .item-card.agotado-card { opacity: 0.55; pointer-events: none; }
 
-    /* ── ALLERGEN NOTICE BANNER ── */
     #allergen-notice {
       background: rgba(196,92,38,0.08);
       border-top: 2px solid rgba(196,92,38,0.3);
@@ -766,11 +750,6 @@
     }
     body.dark-mode #allergen-notice { background: rgba(196,92,38,0.12); }
     
-    /* ══════════════════════════════════════════════════════
-       COLOUR THEMES — applied via ?theme=NAME in the URL
-       ══════════════════════════════════════════════════════ */
-
-    /* ── AZUL MAR ── */
     body.theme-mar {
       --cream: #EEF4FB; --warm-white: #FAFDFF;
       --charcoal: #0A2540; --brown: #1A6FA8;
@@ -805,7 +784,6 @@
     body.theme-mar .detail-name          { color: #0A2540; }
     body.theme-mar .detail-price         { color: #1A6FA8; }
 
-    /* ── VERDE OLIVA ── */
     body.theme-oliva {
       --cream: #F0EDE0; --warm-white: #FAFBF5;
       --charcoal: #2C3320; --brown: #5C7A3E;
@@ -839,7 +817,6 @@
     body.theme-oliva .detail-name         { color: #2C3320; }
     body.theme-oliva .detail-price        { color: #5C7A3E; }
 
-    /* ── BURDEOS ── */
     body.theme-burdeos {
       --cream: #F5ECEC; --warm-white: #FEF8F8;
       --charcoal: #2A0D0D; --brown: #8B1A2A;
@@ -873,7 +850,6 @@
     body.theme-burdeos .detail-name        { color: #2A0D0D; }
     body.theme-burdeos .detail-price       { color: #8B1A2A; }
 
-    /* ── ARENA ── */
     body.theme-arena {
       --cream: #F6F4EF; --warm-white: #FFFFFF;
       --charcoal: #1A1A18; --brown: #6B6458;
@@ -904,7 +880,6 @@
     body.theme-arena #order-panel,
     body.theme-arena #filter-panel        { background: #FFFFFF; }
 
-    /* ── CARBÓN (full dark) ── */
     body.theme-carbon {
       --cream: #111110; --warm-white: #1A1A18;
       --charcoal: #F0EBE0; --brown: #C49060;
@@ -951,7 +926,6 @@
     body.theme-carbon .menu-footer         { border-top-color: rgba(196,144,96,0.15); }
     body.theme-carbon .lang-modal-footer   { color: #4A4440; }
 
-    /* ── DARK MODE TOGGLE (not a theme, just the toggle button) ── */
     body.dark-mode header                  { background: #0C0C0A; }
     body.dark-mode .top-bar                { background: rgba(20,20,18,0.95); border-bottom-color: rgba(196,144,96,0.2); }
     body.dark-mode .item-card              { background: #222220; }
@@ -974,7 +948,6 @@
     body.dark-mode .order-item-name-es     { color: #F0EBE0; }
     body.dark-mode .order-item-name-client { color: #9A8878; }
 
-    /* ── DEMO BANNER ── */
     #demo-banner {
       display: none;
       position: fixed; bottom: 0; left: 0; right: 0; z-index: 9000;
@@ -997,7 +970,6 @@
     body.has-demo-banner main        { padding-bottom: 7rem; }
     body.has-demo-banner #allergen-notice { bottom: 2.6rem; }
 
-    /* ── ONBOARDING HINT TOASTS ── */
     .hint-toast {
       position: fixed;
       left: 50%; transform: translateX(-50%);
@@ -1042,7 +1014,6 @@
 </head>
 <body>
 
-<!-- LANGUAGE MODAL -->
 <div id="lang-modal">
   <p class="lang-subtitle">Welcome · Bienvenido · Bienvenue · Willkommen</p>
   <h1 class="lang-title">Choose your language</h1>
@@ -1050,7 +1021,6 @@
   <div class="lang-modal-footer" id="lang-modal-dev" onclick="openDevModal()"><span>⚡</span><span id="lang-modal-dev-name">Creado por</span></div>
 </div>
 
-<!-- DEVELOPER CREDITS MODAL -->
 <div id="dev-modal" class="modal">
   <div class="modal-content">
     <button class="close-modal-btn" onclick="closeDevModal()">✕</button>
@@ -1062,7 +1032,6 @@
   </div>
 </div>
 
-<!-- OFFER MODAL -->
 <div id="offer-modal" class="modal">
   <div class="modal-content">
     <button class="close-modal-btn" onclick="closeOfferModal()">✕</button>
@@ -1072,7 +1041,6 @@
   </div>
 </div>
 
-<!-- ALERT MODAL -->
 <div id="alert-modal" class="modal">
   <div class="modal-content">
     <button class="close-modal-btn" onclick="closeAlertModal()">✕</button>
@@ -1082,7 +1050,6 @@
   </div>
 </div>
 
-<!-- HEADER -->
 <header id="site-header">
   <div class="header-cover" id="header-cover" style="display:none"></div>
   <div class="header-cover-gradient" id="header-cover-gradient" style="display:none"></div>
@@ -1093,7 +1060,6 @@
   </div>
 </header>
 
-<!-- TOP BAR -->
 <div class="top-bar">
   <button class="lang-change-btn" id="lang-change-btn">🌐 <span id="current-lang-label">ES</span></button>
   <div class="category-scroll" id="category-nav"></div>
@@ -1101,13 +1067,10 @@
   <button class="dark-toggle" id="dark-toggle" onclick="toggleDarkMode()" title="Modo oscuro">🌙</button>
 </div>
 
-<!-- MAIN MENU -->
 <main id="menu-main"></main>
 
-<!-- SHARE LOCATION FAB -->
 <button class="share-fab hidden" id="share-fab" onclick="shareLocation()" title="Compartir ubicación">📍</button>
 
-<!-- MENU FOOTER -->
 <footer class="menu-footer">
   <div class="menu-footer-dev" id="menu-footer-dev" onclick="openDevModal()">
     <div class="dot"></div>
@@ -1116,13 +1079,11 @@
   </div>
 </footer>
 
-<!-- ORDER FAB -->
 <button class="order-fab hidden" id="order-fab">
   🛒 <span data-i18n="order">Mi pedido</span>
   <span class="order-badge" id="order-count">0</span>
 </button>
 
-<!-- DETAIL PANEL -->
 <div id="detail-overlay" onclick="closeDetail(event)">
   <div id="detail-panel">
     <button class="close-detail-btn" onclick="closeDetail(null, true)">✕</button>
@@ -1130,7 +1091,6 @@
   </div>
 </div>
 
-<!-- ORDER PANEL -->
 <div id="order-overlay" onclick="closeOrder(event)">
   <div id="order-panel">
     <div class="order-header">
@@ -1141,7 +1101,6 @@
   </div>
 </div>
 
-<!-- FILTER PANEL -->
 <div id="filter-overlay" onclick="closeFilter(event)">
   <div id="filter-panel">
     <div class="filter-header">
@@ -1152,12 +1111,10 @@
   </div>
 </div>
 
-<!-- ALLERGEN NOTICE BANNER -->
 <div id="allergen-notice">
   ⚠️ <span id="allergen-notice-text">Si tiene alguna alergia o intolerancia alimentaria, informe al personal antes de pedir.</span>
 </div>
 
-<!-- ONBOARDING HINT TOASTS -->
 <div class="hint-toast" id="hint-allergen">
   <span class="hint-toast-icon" id="hint-allergen-icon">🔍</span>
   <div class="hint-toast-body">
@@ -1173,13 +1130,11 @@
   <button class="hint-toast-close" onclick="dismissHint('order')">✕</button>
 </div>
 
-<!-- DEMO BANNER -->
 <div id="demo-banner">
   🎭 <strong>MODO DEMO</strong> — Simulando franja: <span id="demo-label"></span>
   <a href="demo.html">← Volver al selector</a>
 </div>
 
-<!-- AQUÍ CARGAMOS TU CÓDIGO OFUSCADO -->
 <script src="app-carta.js"></script>
 
 </body>

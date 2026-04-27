@@ -157,6 +157,27 @@
           "url": "https://wa.me/34644700830",
           "style": "wa",
           "enabled": true
+        },
+        {
+          "label": "Telegram",
+          "icon": "✈️",
+          "url": "https://t.me/jon_glez",
+          "style": "normal",
+          "enabled": true
+        },
+        {
+          "label": "Mi web",
+          "icon": "🌐",
+          "url": "https://microcorpset.github.io/tarjeta/",
+          "style": "normal",
+          "enabled": true
+        },
+        {
+          "label": "Email",
+          "icon": "✉️",
+          "url": "mailto:jongt23@gmail.com",
+          "style": "normal",
+          "enabled": true
         }
       ]
     },

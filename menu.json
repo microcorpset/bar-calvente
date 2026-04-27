@@ -392,10 +392,10 @@
           "Lácteos"
         ],
         "en": [
-          "Dairy"
+          "Lácteos"
         ],
         "fr": [
-          "Laitier"
+          "Lácteos"
         ]
       },
       "available": true
@@ -424,18 +424,18 @@
           "Sésamo"
         ],
         "en": [
-          "Dairy",
+          "Lácteos",
           "Gluten",
-          "Egg",
-          "Nuts",
-          "Sesame"
+          "Huevo",
+          "Frutos secos",
+          "Sésamo"
         ],
         "fr": [
-          "Laitier",
+          "Lácteos",
           "Gluten",
-          "Œuf",
-          "Fruits à coque",
-          "Sésame"
+          "Huevo",
+          "Frutos secos",
+          "Sésamo"
         ]
       },
       "tags": {
@@ -471,10 +471,10 @@
           "Lácteos"
         ],
         "en": [
-          "Dairy"
+          "Lácteos"
         ],
         "fr": [
-          "Laitier"
+          "Lácteos"
         ]
       },
       "available": true
@@ -502,13 +502,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "tags": {
@@ -547,13 +547,13 @@
         ],
         "en": [
           "Gluten",
-          "Nuts",
-          "Egg"
+          "Frutos secos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Fruits à coque",
-          "Œuf"
+          "Frutos secos",
+          "Huevo"
         ]
       },
       "available": true
@@ -589,10 +589,10 @@
           "Sulfitos"
         ],
         "en": [
-          "Sulphites"
+          "Sulfitos"
         ],
         "fr": [
-          "Sulfites"
+          "Sulfitos"
         ]
       },
       "available": true
@@ -648,13 +648,13 @@
         ],
         "en": [
           "Gluten",
-          "Molluscs",
-          "Egg"
+          "Moluscos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Mollusques",
-          "Œuf"
+          "Moluscos",
+          "Huevo"
         ]
       },
       "available": true
@@ -692,11 +692,11 @@
         ],
         "en": [
           "Gluten",
-          "Egg"
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Œuf"
+          "Huevo"
         ]
       },
       "available": true
@@ -723,11 +723,11 @@
         ],
         "en": [
           "Gluten",
-          "Egg"
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Œuf"
+          "Huevo"
         ]
       },
       "available": true
@@ -753,12 +753,12 @@
           "Frutos secos"
         ],
         "en": [
-          "Dairy",
-          "Nuts"
+          "Lácteos",
+          "Frutos secos"
         ],
         "fr": [
-          "Laitier",
-          "Fruits à coque"
+          "Lácteos",
+          "Frutos secos"
         ]
       },
       "available": true
@@ -784,12 +784,12 @@
           "Pescado"
         ],
         "en": [
-          "Nuts",
-          "Fish"
+          "Frutos secos",
+          "Pescado"
         ],
         "fr": [
-          "Fruits à coque",
-          "Poisson"
+          "Frutos secos",
+          "Pescado"
         ]
       },
       "available": true
@@ -814,10 +814,10 @@
           "Frutos secos"
         ],
         "en": [
-          "Nuts"
+          "Frutos secos"
         ],
         "fr": [
-          "Fruits à coque"
+          "Frutos secos"
         ]
       },
       "available": true
@@ -843,12 +843,12 @@
           "Frutos secos"
         ],
         "en": [
-          "Dairy",
-          "Nuts"
+          "Lácteos",
+          "Frutos secos"
         ],
         "fr": [
-          "Laitier",
-          "Fruits à coque"
+          "Lácteos",
+          "Frutos secos"
         ]
       },
       "available": true
@@ -884,10 +884,10 @@
           "Pescado"
         ],
         "en": [
-          "Fish"
+          "Pescado"
         ],
         "fr": [
-          "Poisson"
+          "Pescado"
         ]
       },
       "available": true,
@@ -913,10 +913,10 @@
           "Lácteos"
         ],
         "en": [
-          "Dairy"
+          "Lácteos"
         ],
         "fr": [
-          "Laitier"
+          "Lácteos"
         ]
       },
       "available": true
@@ -955,10 +955,10 @@
           "Crustáceos"
         ],
         "en": [
-          "Shellfish"
+          "Crustáceos"
         ],
         "fr": [
-          "Crustacés"
+          "Crustáceos"
         ]
       },
       "available": true
@@ -1014,13 +1014,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1047,14 +1047,14 @@
           "Huevo"
         ],
         "en": [
-          "Dairy",
+          "Lácteos",
           "Gluten",
-          "Egg"
+          "Huevo"
         ],
         "fr": [
-          "Laitier",
+          "Lácteos",
           "Gluten",
-          "Œuf"
+          "Huevo"
         ]
       },
       "available": true
@@ -1093,10 +1093,10 @@
           "Huevo"
         ],
         "en": [
-          "Egg"
+          "Huevo"
         ],
         "fr": [
-          "Œuf"
+          "Huevo"
         ]
       },
       "available": true
@@ -1124,13 +1124,13 @@
         ],
         "en": [
           "Gluten",
-          "Nuts",
-          "Egg"
+          "Frutos secos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Fruits à coque",
-          "Œuf"
+          "Frutos secos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1155,10 +1155,10 @@
           "Sulfitos"
         ],
         "en": [
-          "Sulphites"
+          "Sulfitos"
         ],
         "fr": [
-          "Sulfites"
+          "Sulfitos"
         ]
       },
       "available": true
@@ -1201,15 +1201,15 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg",
-          "Fish"
+          "Lácteos",
+          "Huevo",
+          "Pescado"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf",
-          "Poisson"
+          "Lácteos",
+          "Huevo",
+          "Pescado"
         ]
       },
       "available": true
@@ -1267,10 +1267,10 @@
           "Sulfitos"
         ],
         "en": [
-          "Sulphites"
+          "Sulfitos"
         ],
         "fr": [
-          "Sulfites"
+          "Sulfitos"
         ]
       },
       "available": true
@@ -1306,10 +1306,10 @@
           "Huevo"
         ],
         "en": [
-          "Egg"
+          "Huevo"
         ],
         "fr": [
-          "Œuf"
+          "Huevo"
         ]
       },
       "available": true
@@ -1389,10 +1389,10 @@
           "Sulfitos"
         ],
         "en": [
-          "Sulphites"
+          "Sulfitos"
         ],
         "fr": [
-          "Sulfites"
+          "Sulfitos"
         ]
       },
       "available": true
@@ -1431,13 +1431,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1465,13 +1465,13 @@
         ],
         "en": [
           "Gluten",
-          "Fish",
-          "Egg"
+          "Pescado",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Poisson",
-          "Œuf"
+          "Pescado",
+          "Huevo"
         ]
       },
       "available": true
@@ -1499,13 +1499,13 @@
         ],
         "en": [
           "Gluten",
-          "Molluscs",
-          "Egg"
+          "Moluscos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Mollusques",
-          "Œuf"
+          "Moluscos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1532,14 +1532,14 @@
           "Crustáceos"
         ],
         "en": [
-          "Fish",
-          "Molluscs",
-          "Shellfish"
+          "Pescado",
+          "Moluscos",
+          "Crustáceos"
         ],
         "fr": [
-          "Poisson",
-          "Mollusques",
-          "Crustacés"
+          "Pescado",
+          "Moluscos",
+          "Crustáceos"
         ]
       },
       "available": true
@@ -1575,10 +1575,10 @@
           "Moluscos"
         ],
         "en": [
-          "Molluscs"
+          "Moluscos"
         ],
         "fr": [
-          "Mollusques"
+          "Moluscos"
         ]
       },
       "available": true,
@@ -1618,13 +1618,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1663,13 +1663,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1698,15 +1698,15 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg",
-          "Nuts"
+          "Lácteos",
+          "Huevo",
+          "Frutos secos"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf",
-          "Fruits à coque"
+          "Lácteos",
+          "Huevo",
+          "Frutos secos"
         ]
       },
       "available": true
@@ -1731,10 +1731,10 @@
           "Lácteos"
         ],
         "en": [
-          "Dairy"
+          "Lácteos"
         ],
         "fr": [
-          "Laitier"
+          "Lácteos"
         ]
       },
       "available": true
@@ -1762,13 +1762,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1795,11 +1795,11 @@
         ],
         "en": [
           "Gluten",
-          "Egg"
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Œuf"
+          "Huevo"
         ]
       },
       "available": true
@@ -1827,13 +1827,13 @@
         ],
         "en": [
           "Gluten",
-          "Dairy",
-          "Egg"
+          "Lácteos",
+          "Huevo"
         ],
         "fr": [
           "Gluten",
-          "Laitier",
-          "Œuf"
+          "Lácteos",
+          "Huevo"
         ]
       },
       "available": true

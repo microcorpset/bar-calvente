@@ -271,10 +271,10 @@
     },
     "location": {
       "name": "Bar Calvente",
-      "address": "",
-      "lat": 0,
-      "lng": 0,
-      "googleMapsUrl": "",
+      "address": "C. Cuevas del Sol, 97, 11692 Setenil de las Bodegas, Cádiz",
+      "lat": 36.86196023794129,
+      "lng": -5.177955564367233,
+      "googleMapsUrl": "VR6C+QR Setenil de las Bodegas",
       "shareMessage": {
         "es": "",
         "en": "",

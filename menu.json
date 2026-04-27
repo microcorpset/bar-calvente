@@ -935,7 +935,7 @@
         "fr": "Salade fraîche avec avocat crémeux, grosses crevettes, mélange de feuilles et vinaigrette citronnée."
       },
       "price": 9.5,
-      "image": "",
+      "image": "./images/ensalada_langostinos.jpg",
       "tags": {
         "es": [
           "Nuevo",

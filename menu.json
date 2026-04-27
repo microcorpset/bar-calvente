@@ -30,7 +30,8 @@
         "translations": {
           "es": "Gluten",
           "en": "Gluten",
-          "fr": "Gluten"
+          "fr": "Gluten",
+          "de": "Gluten"
         }
       },
       "Crustáceos": {
@@ -39,7 +40,8 @@
         "translations": {
           "es": "Crustáceos",
           "en": "Shellfish",
-          "fr": "Crustacés"
+          "fr": "Crustacés",
+          "de": "Krebstiere"
         }
       },
       "Huevo": {
@@ -48,7 +50,8 @@
         "translations": {
           "es": "Huevo",
           "en": "Egg",
-          "fr": "Œuf"
+          "fr": "Œuf",
+          "de": "Ei"
         }
       },
       "Pescado": {
@@ -57,7 +60,18 @@
         "translations": {
           "es": "Pescado",
           "en": "Fish",
-          "fr": "Poisson"
+          "fr": "Poisson",
+          "de": "Fisch"
+        }
+      },
+      "Cacahuetes": {
+        "icon": "🥜",
+        "color": "#B8860B",
+        "translations": {
+          "es": "Cacahuetes",
+          "en": "Peanuts",
+          "fr": "Arachides",
+          "de": "Erdnüsse"
         }
       },
       "Frutos secos": {
@@ -66,34 +80,28 @@
         "translations": {
           "es": "Frutos secos",
           "en": "Nuts",
-          "fr": "Fruits à coque"
+          "fr": "Fruits à coque",
+          "de": "Nüsse"
         }
       },
-      "Lácteos": {
-        "icon": "🥛",
-        "color": "#E0E0E0",
+      "Apio": {
+        "icon": "🌿",
+        "color": "#52B788",
         "translations": {
-          "es": "Lácteos",
-          "en": "Dairy",
-          "fr": "Laitier"
+          "es": "Apio",
+          "en": "Celery",
+          "fr": "Céleri",
+          "de": "Sellerie"
         }
       },
-      "Moluscos": {
-        "icon": "🦪",
-        "color": "#FF99C8",
+      "Mostaza": {
+        "icon": "🟡",
+        "color": "#FFB703",
         "translations": {
-          "es": "Moluscos",
-          "en": "Molluscs",
-          "fr": "Mollusques"
-        }
-      },
-      "Sulfitos": {
-        "icon": "⚗️",
-        "color": "#9D4EDD",
-        "translations": {
-          "es": "Sulfitos",
-          "en": "Sulphites",
-          "fr": "Sulfites"
+          "es": "Mostaza",
+          "en": "Mustard",
+          "fr": "Moutarde",
+          "de": "Senf"
         }
       },
       "Sésamo": {
@@ -102,7 +110,58 @@
         "translations": {
           "es": "Sésamo",
           "en": "Sesame",
-          "fr": "Sésame"
+          "fr": "Sésame",
+          "de": "Sesam"
+        }
+      },
+      "Sulfitos": {
+        "icon": "⚗️",
+        "color": "#9D4EDD",
+        "translations": {
+          "es": "Sulfitos",
+          "en": "Sulphites",
+          "fr": "Sulfites",
+          "de": "Sulfite"
+        }
+      },
+      "Altramuces": {
+        "icon": "🌺",
+        "color": "#FF006E",
+        "translations": {
+          "es": "Altramuces",
+          "en": "Lupin",
+          "fr": "Lupin",
+          "de": "Lupinen"
+        }
+      },
+      "Moluscos": {
+        "icon": "🦪",
+        "color": "#FF99C8",
+        "translations": {
+          "es": "Moluscos",
+          "en": "Molluscs",
+          "fr": "Mollusques",
+          "de": "Weichtiere"
+        }
+      },
+      "Lácteos": {
+        "icon": "🥛",
+        "color": "#E0E0E0",
+        "translations": {
+          "es": "Lácteos",
+          "en": "Dairy",
+          "fr": "Laitier",
+          "de": "Milch"
+        }
+      },
+      "Soja": {
+        "icon": "🫘",
+        "color": "#D4A373",
+        "translations": {
+          "es": "Soja",
+          "en": "Soya",
+          "fr": "Soja",
+          "de": "Soja"
         }
       }
     },

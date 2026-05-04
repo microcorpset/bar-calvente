@@ -414,7 +414,7 @@
         "fr": "Sucette de fromage panée et frite, servie avec confiture de framboises."
       },
       "price": 5.0,
-      "image": "./images/piruleta_dequeso.jpg",
+      "image": "./images/tapapiruleta.jpeg",
       "allergens": {
         "es": [
           "Lácteos",
@@ -465,7 +465,7 @@
         "fr": "Délicate rosace de fromage Payoyo présentée à l'huile d'olive extra vierge."
       },
       "price": 4.0,
-      "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=600&q=80",
+      "image": "./images/tapaflor.jpeg",
       "allergens": {
         "es": [
           "Lácteos"
@@ -538,7 +538,7 @@
         "fr": "Pâte feuilletée croustillante farcie de poulet épicé, amandes caramélisées et eau de fleur d'oranger."
       },
       "price": 4.0,
-      "image": "./images/pastela.jpg",
+      "image": "./images/tapapasteladepollo.jpeg",
       "allergens": {
         "es": [
           "Gluten",
@@ -639,7 +639,7 @@
         "fr": "Calmars panés et frits avec sauce brava sur pain mollete."
       },
       "price": 3.5,
-      "image": "https://media.istockphoto.com/id/2149065290/es/foto/calamares-fritos-en-pan-con-verduras-al-lado-bocadillo-de-calamares.webp?a=1&b=1&s=612x612&w=0&k=20&c=hO2hzmCaMu-eGj-nKQimclxUXkdJEIiN92o6KroSw0E=",
+      "image": "./images/tapacalamares.jpeg",
       "allergens": {
         "es": [
           "Gluten",
@@ -972,21 +972,21 @@
         "fr": "Chapelure Grillée Maison"
       },
       "description": {
-        "es": "Migas tradicionales andaluzas con su guarnición de chorizo, pimiento y uvas. Plato de la tierra.",
-        "en": "Traditional Andalusian toasted breadcrumbs with chorizo, pepper and grapes. A local classic.",
-        "fr": "Chapelure grillée traditionnelle andalouse avec chorizo, poivron et raisins. Plat du terroir."
+        "es": "Migas tradicionales andaluzas con huevo y guarnición. Plato de la tierra.",
+        "en": "Traditional Andalusian toasted breadcrumbs with egg and garnish. A local classic.",
+        "fr": "Chapelure grillée traditionnelle andalouse avec œuf et garniture. Plat du terroir."
       },
       "price": 8.0,
       "image": "https://media.istockphoto.com/id/1517235966/es/foto/plato-t%C3%ADpico-espa%C3%B1ol-llamado-migas-extreme%C3%B1as-hecho-con-migas-carne-piment%C3%B3n-huevo-aceite-y-ajo.webp?a=1&b=1&s=612x612&w=0&k=20&c=_wr2q851_kwUbe24DCUoybG8F8uN0uGE1Bi98mcmOn0=",
       "allergens": {
         "es": [
-          "Gluten"
+          "Gluten", "Huevo"
         ],
         "en": [
-          "Gluten"
+          "Gluten", "Huevo"
         ],
         "fr": [
-          "Gluten"
+          "Gluten", "Huevo"
         ]
       },
       "available": true
@@ -1177,7 +1177,7 @@
         "fr": "Sélection de croquettes maison aux garnitures variées : jambon, morue, épinards... Croustillantes dehors, crémeuses dedans."
       },
       "price": 10.0,
-      "image": "",
+      "image": "./images/platosurtidocroquetas.jpeg",
       "tags": {
         "es": [
           "Popular",

@@ -460,21 +460,27 @@
         "fr": "Rosace de Fromage"
       },
       "description": {
-        "es": "Delicada flor de queso Payoyo presentada con aceite de oliva virgen extra.",
-        "en": "Delicate Payoyo cheese rosette presented with extra virgin olive oil.",
-        "fr": "Délicate rosace de fromage Payoyo présentée à l'huile d'olive extra vierge."
+        "es": "Delicada flor de queso de cabra con frutos secos y miel de caña en masa brick.",
+        "en": "Delicate goat cheese rosette with nuts and cane honey in brick pastry.",
+        "fr": "Délicate rosace de fromage de chèvre aux fruits secs et miel de canne en feuille de brick."
       },
       "price": 4.0,
-      "image": "./images/tapaflor.jpeg",
+      "image": "./images/tapaflor.jpg",
       "allergens": {
         "es": [
-          "Lácteos"
+          "Lácteos",
+          "Frutos secos",
+          "Gluten"
         ],
         "en": [
-          "Lácteos"
+          "Lácteos",
+          "Frutos secos",
+          "Gluten"
         ],
         "fr": [
-          "Lácteos"
+          "Lácteos",
+          "Frutos secos",
+          "Gluten"
         ]
       },
       "available": true
@@ -483,14 +489,14 @@
       "id": "t4",
       "category": "tapas",
       "name": {
-        "es": "Berenjenas con Queso de Cabra y Miel de Caña",
-        "en": "Aubergines with Goat Cheese and Cane Honey",
-        "fr": "Aubergines au Fromage de Chèvre et Miel de Canne"
+        "es": "Berenjenas con Queso de Cabra, Frutos Secos y Miel de Caña",
+        "en": "Aubergines with Goat Cheese, Nuts and Cane Honey",
+        "fr": "Aubergines au Fromage de Chèvre, Fruits Secs et Miel de Canne"
       },
       "description": {
-        "es": "Berenjenas fritas en tempura ligera, queso de cabra fundido y miel de caña de la tierra.",
-        "en": "Lightly battered fried aubergines with melted goat cheese and local cane honey.",
-        "fr": "Aubergines frites en tempura légère, fromage de chèvre fondu et miel de canne local."
+        "es": "Berenjenas fritas en tempura ligera, queso de cabra fundido, frutos secos y miel de caña de la tierra.",
+        "en": "Lightly battered fried aubergines with melted goat cheese, nuts and local cane honey.",
+        "fr": "Aubergines frites en tempura légère, fromage de chèvre fondu, fruits secs et miel de canne local."
       },
       "price": 3.5,
       "image": "./images/berenjena.jpg",
@@ -498,17 +504,20 @@
         "es": [
           "Gluten",
           "Lácteos",
-          "Huevo"
+          "Huevo",
+          "Frutos secos"
         ],
         "en": [
           "Gluten",
           "Lácteos",
-          "Huevo"
+          "Huevo",
+          "Frutos secos"
         ],
         "fr": [
           "Gluten",
           "Lácteos",
-          "Huevo"
+          "Huevo",
+          "Frutos secos"
         ]
       },
       "tags": {
@@ -663,14 +672,14 @@
       "id": "t9",
       "category": "tapas",
       "name": {
-        "es": "Montadito de Chorizo con Huevo",
-        "en": "Chorizo and Egg Sandwich",
-        "fr": "Petit Sandwich au Chorizo avec Œuf"
+        "es": "Montadito de Chorizo con Huevo de Codorniz",
+        "en": "Chorizo and Quail Egg Sandwich",
+        "fr": "Petit Sandwich au Chorizo avec Œuf de Caille"
       },
       "description": {
-        "es": "Chorizo ibérico frito con huevo de campo sobre mollete artesano.",
-        "en": "Fried Iberian chorizo with free-range egg on artisan mollete bread.",
-        "fr": "Chorizo ibérique frit avec œuf de ferme sur pain mollete artisanal."
+        "es": "Chorizo frito con huevo de codorniz sobre mollete.",
+        "en": "Fried chorizo with quail egg on mollete bread.",
+        "fr": "Chorizo frit avec œuf de caille sur pain mollete."
       },
       "price": 4.0,
       "image": "./images/masita.jpg",
@@ -715,7 +724,7 @@
         "fr": "Lard grillé croustillant avec œuf au plat sur pain mollete."
       },
       "price": 4.0,
-      "image": "./images/pancetahuevo.png",
+      "image": "",
       "allergens": {
         "es": [
           "Gluten",
@@ -925,14 +934,14 @@
       "id": "f5",
       "category": "frios",
       "name": {
-        "es": "Ensalada de Aguacate y Langostinos",
-        "en": "Avocado and King Prawn Salad",
-        "fr": "Salade d'Avocat et Crevettes"
+        "es": "Ensalada de Aguacate y Langostinos con Salsa Rosa",
+        "en": "Avocado and King Prawn Salad with Cocktail Sauce",
+        "fr": "Salade d'Avocat et Crevettes avec Sauce Cocktail"
       },
       "description": {
-        "es": "Ensalada fresca con aguacate cremoso, langostinos cocidos, mezclum de hojas y vinagreta cítrica.",
-        "en": "Fresh salad with creamy avocado, king prawns, mixed leaves and citrus vinaigrette.",
-        "fr": "Salade fraîche avec avocat crémeux, grosses crevettes, mélange de feuilles et vinaigrette citronnée."
+        "es": "Ensalada fresca con aguacate cremoso, langostinos cocidos, mezclum de hojas y salsa rosa.",
+        "en": "Fresh salad with creamy avocado, king prawns, mixed leaves and cocktail sauce.",
+        "fr": "Salade fraîche avec avocat crémeux, grosses crevettes, mélange de feuilles et sauce cocktail."
       },
       "price": 9.5,
       "image": "./images/ensalada_langostinos.jpg",
@@ -995,32 +1004,35 @@
       "id": "c2",
       "category": "compartir",
       "name": {
-        "es": "Berenjenas con Queso de Cabra y Miel de Caña",
-        "en": "Fried Aubergines with Goat Cheese and Cane Honey",
-        "fr": "Aubergines Frites au Fromage de Chèvre et Miel de Canne"
+        "es": "Berenjenas con Queso de Cabra, Frutos Secos y Miel de Caña",
+        "en": "Fried Aubergines with Goat Cheese, Nuts and Cane Honey",
+        "fr": "Aubergines Frites au Fromage de Chèvre, Fruits Secs et Miel de Canne"
       },
       "description": {
-        "es": "Ración de berenjenas fritas en tempura, con queso de cabra fundido y miel de caña. Ideal para compartir.",
-        "en": "Portion of tempura-battered fried aubergines with melted goat cheese and cane honey. Perfect for sharing.",
-        "fr": "Portion d'aubergines frites en tempura avec fromage de chèvre fondu et miel de canne. Idéal à partager."
+        "es": "Ración de berenjenas fritas en tempura, con queso de cabra fundido, frutos secos y miel de caña. Ideal para compartir.",
+        "en": "Portion of tempura-battered fried aubergines with melted goat cheese, nuts and cane honey. Perfect for sharing.",
+        "fr": "Portion d'aubergines frites en tempura avec fromage de chèvre fondu, fruits secs et miel de canne. Idéal à partager."
       },
       "price": 12.0,
-      "image": "./images/berenjenas_queso.png",
+      "image": "./images/plato_berenjenas.jpeg",
       "allergens": {
         "es": [
           "Gluten",
           "Lácteos",
-          "Huevo"
+          "Huevo",
+          "Frutos secos"
         ],
         "en": [
           "Gluten",
           "Lácteos",
-          "Huevo"
+          "Huevo",
+          "Frutos secos"
         ],
         "fr": [
           "Gluten",
           "Lácteos",
-          "Huevo"
+          "Huevo",
+          "Frutos secos"
         ]
       },
       "available": true
@@ -1115,7 +1127,7 @@
         "fr": "Feuilletés croustillants farcis de poulet épicé, amandes et eau de fleur d'oranger. Inspiration marocaine."
       },
       "price": 12.0,
-      "image": "./images/pastelas.png",
+      "image": "./images/pastela_pollo.jpeg",
       "allergens": {
         "es": [
           "Gluten",
@@ -1149,7 +1161,7 @@
         "fr": "Côtes de porc ibérique laquées à la sauce barbecue maison et leur garniture."
       },
       "price": 14.0,
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+      "image": "",
       "allergens": {
         "es": [
           "Sulfitos"
@@ -1228,7 +1240,7 @@
         "fr": "Filet de porc ibérique grillé au barbecue, cuit à la perfection."
       },
       "price": 10.0,
-      "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=600&q=80",
+      "image": "./images/plato_churrasco.jpeg",
       "allergens": {
         "es": [],
         "en": [],
@@ -1289,7 +1301,7 @@
         "fr": "Steaks, œuf, pommes de terre, poivron et chorizo. Un plat copieux du terroir."
       },
       "price": 10.0,
-      "image": "./images/plato_campero.png",
+      "image": "./images/plato_campero.jpeg",
       "tags": {
         "es": [
           "Popular"
@@ -1328,7 +1340,7 @@
         "fr": "Sélection de viandes ibériques grillées pour deux personnes, avec garniture."
       },
       "price": 20.0,
-      "image": "./images/parrillada2.png",
+      "image": "./images/parrillada2.jpeg",
       "allergens": {
         "es": [],
         "en": [],
@@ -1350,7 +1362,7 @@
         "fr": "Grande sélection de viandes ibériques grillées pour quatre personnes, avec garniture."
       },
       "price": 38.0,
-      "image": "./images/parrillada.png",
+      "image": "./images/parrillada4.jpeg",
       "allergens": {
         "es": [],
         "en": [],
@@ -1456,7 +1468,7 @@
         "fr": "Beignets de morue légers et moelleux, dorés et croustillants dehors, juteux dedans."
       },
       "price": 10.0,
-      "image": "https://media.istockphoto.com/id/2148612995/es/foto/pataniscas-bacalao-frito.webp?a=1&b=1&s=612x612&w=0&k=20&c=YJDXwC4N22D2kM2htEcGrOY8OxTkiGyPgDq-zXDueF4=",
+      "image": "./images/plato_bunuelos.jpeg",
       "allergens": {
         "es": [
           "Gluten",
@@ -1490,7 +1502,7 @@
         "fr": "Calmars grillés ou frits accompagnés d'une salade fraîche d'accompagnement."
       },
       "price": 12.0,
-      "image": "https://images.unsplash.com/photo-1678919665999-957d38bf1762?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhbGFtYXJlcyUyMGNvbiUyMGVuc2FsYWRhfGVufDB8fDB8fHww",
+      "image": "./images/plato_calamares.jpeg",
       "allergens": {
         "es": [
           "Gluten",
@@ -1558,7 +1570,7 @@
         "fr": "Cuisse de poulpe grillée sur crème de pommes de terre, avec paprika de la Vera et HOVE."
       },
       "price": 22.0,
-      "image": "https://media.istockphoto.com/id/483363548/es/foto/plato-de-pescado-estofado-de-pulpo-en-chickpea-helado-de-caramelo-en.jpg?s=612x612&w=0&k=20&c=h_qY7PIGrVF7S88xbxeV3FOwThHaFvnFhnY67SO7inA=",
+      "image": "",
       "tags": {
         "es": [
           "Especialidad"
@@ -1633,9 +1645,9 @@
       "id": "po2",
       "category": "postres",
       "name": {
-        "es": "Tapón de Chocolate con Helado de Vainilla",
-        "en": "Chocolate with Vanilla Ice Cream",
-        "fr": "Bouchon de Chocolat avec Glace à la Vanille"
+        "es": "Coulant de Chocolate con Helado de Vainilla",
+        "en": "Chocolate Coulant with Vanilla Ice Cream",
+        "fr": "Coulant au Chocolat avec Glace à la Vanille"
       },
       "description": {
         "es": "Coulant de chocolate con centro fundido, servido con helado de vainilla.",
@@ -1643,7 +1655,7 @@
         "fr": "Fondant au chocolat avec cœur coulant, servi avec glace à la vanille."
       },
       "price": 5.5,
-      "image": "./images/tapon.png",
+      "image": "./images/coulant_chocolate.jpeg",
       "tags": {
         "es": [
           "Popular"
@@ -1787,7 +1799,7 @@
         "fr": "Filet de poulet pané, œuf au plat et pommes de terre frites. Le préféré des enfants."
       },
       "price": 9.0,
-      "image": "https://images.unsplash.com/photo-1682970078535-cd0cf994ee96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZpbGV0ZSUyMHBvbGxvJTIwZW1wYW5hZG98ZW58MHx8MHx8fDA%3D",
+      "image": "./images/filete_empanado.jpeg",
       "allergens": {
         "es": [
           "Gluten",

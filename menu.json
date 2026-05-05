@@ -845,7 +845,7 @@
         "fr": "Mélange de feuilles avec fromage de chèvre tiède, noix et miel."
       },
       "price": 10.0,
-      "image": "./images/ensalada_queso.png",
+      "image": "./images/mini_queso.jpg",
       "allergens": {
         "es": [
           "Lácteos",

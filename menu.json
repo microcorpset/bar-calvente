@@ -470,17 +470,20 @@
         "es": [
           "Lácteos",
           "Frutos secos",
-          "Gluten"
+          "Gluten",
+          "Huevo"
         ],
         "en": [
           "Lácteos",
           "Frutos secos",
-          "Gluten"
+          "Gluten",
+          "Huevo"
         ],
         "fr": [
           "Lácteos",
           "Frutos secos",
-          "Gluten"
+          "Gluten",
+          "Huevo"
         ]
       },
       "available": true
@@ -552,17 +555,20 @@
         "es": [
           "Gluten",
           "Frutos secos",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ],
         "en": [
           "Gluten",
           "Frutos secos",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ],
         "fr": [
           "Gluten",
           "Frutos secos",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ]
       },
       "available": true
@@ -961,13 +967,16 @@
       },
       "allergens": {
         "es": [
-          "Crustáceos"
+          "Crustáceos",
+          "Huevo"
         ],
         "en": [
-          "Crustáceos"
+          "Crustáceos",
+          "Huevo"
         ],
         "fr": [
-          "Crustáceos"
+          "Crustáceos",
+          "Huevo"
         ]
       },
       "available": true
@@ -1132,17 +1141,20 @@
         "es": [
           "Gluten",
           "Frutos secos",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ],
         "en": [
           "Gluten",
           "Frutos secos",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ],
         "fr": [
           "Gluten",
           "Frutos secos",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ]
       },
       "available": true
@@ -1156,21 +1168,24 @@
         "fr": "Côtes Levées Sauce Barbecue avec sa Garniture"
       },
       "description": {
-        "es": "Costillar de cerdo ibérico lacado con salsa barbacoa casera y acompañado de su guarnición.",
-        "en": "Iberian pork ribs glazed with homemade barbecue sauce and served with garnish.",
-        "fr": "Côtes de porc ibérique laquées à la sauce barbecue maison et leur garniture."
+        "es": "Costillar de cerdo ibérico lacado con salsa barbacoa y acompañado de su guarnición.",
+        "en": "Iberian pork ribs glazed with barbecue sauce and served with garnish.",
+        "fr": "Côtes de porc ibérique laquées à la sauce barbecue et leur garniture."
       },
       "price": 14.0,
       "image": "",
       "allergens": {
         "es": [
-          "Sulfitos"
+          "Sulfitos",
+          "Mostaza"
         ],
         "en": [
-          "Sulfitos"
+          "Sulfitos",
+          "Mostaza"
         ],
         "fr": [
-          "Sulfitos"
+          "Sulfitos",
+          "Mostaza"
         ]
       },
       "available": true
@@ -1473,17 +1488,20 @@
         "es": [
           "Gluten",
           "Pescado",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ],
         "en": [
           "Gluten",
           "Pescado",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ],
         "fr": [
           "Gluten",
           "Pescado",
-          "Huevo"
+          "Huevo",
+          "Lácteos"
         ]
       },
       "available": true
@@ -1584,13 +1602,16 @@
       },
       "allergens": {
         "es": [
-          "Moluscos"
+          "Moluscos",
+          "Lácteos"
         ],
         "en": [
-          "Moluscos"
+          "Moluscos",
+          "Lácteos"
         ],
         "fr": [
-          "Moluscos"
+          "Moluscos",
+          "Lácteos"
         ]
       },
       "available": true,

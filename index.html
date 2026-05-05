@@ -156,8 +156,12 @@
       background: rgba(245,240,232,0.92);
       backdrop-filter: blur(12px);
       border-bottom: 1px solid rgba(139,94,60,0.15);
-      padding: 0.6rem 1rem;
-      display: flex; align-items: center; justify-content: space-between; gap: 0.8rem;
+      padding: 0.5rem 1rem 0;
+      display: flex; flex-direction: column; gap: 0;
+    }
+    .top-bar-controls {
+      display: flex; align-items: center; justify-content: space-between;
+      padding-bottom: 0.5rem;
     }
     .lang-change-btn {
       background: none; border: 1px solid var(--brown);
@@ -183,7 +187,7 @@
       display: flex; gap: 0.5rem;
       overflow-x: auto; scrollbar-width: none;
       -webkit-overflow-scrolling: touch;
-      flex: 1;
+      padding-bottom: 0.5rem;
     }
     .category-scroll::-webkit-scrollbar { display: none; }
     .cat-pill {
@@ -1070,10 +1074,14 @@
 </header>
 
 <div class="top-bar">
-  <button class="lang-change-btn" id="lang-change-btn">🌐 <span id="current-lang-label">ES</span></button>
+  <div class="top-bar-controls">
+    <button class="lang-change-btn" id="lang-change-btn">🌐 <span id="current-lang-label">ES</span></button>
+    <div style="display:flex;gap:0.5rem;align-items:center;">
+      <button class="filter-btn" id="filter-btn">🦐 <span data-i18n="allergens">Alérgenos</span></button>
+      <button class="dark-toggle" id="dark-toggle" onclick="toggleDarkMode()" title="Modo oscuro">🌙</button>
+    </div>
+  </div>
   <div class="category-scroll" id="category-nav"></div>
-  <button class="filter-btn" id="filter-btn">🦐 <span data-i18n="allergens">Alérgenos</span></button>
-  <button class="dark-toggle" id="dark-toggle" onclick="toggleDarkMode()" title="Modo oscuro">🌙</button>
 </div>
 
 <main id="menu-main"></main>

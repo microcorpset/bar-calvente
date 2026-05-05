@@ -1023,7 +1023,7 @@
         "fr": "Portion d'aubergines frites en tempura avec fromage de chèvre fondu, fruits secs et miel de canne. Idéal à partager."
       },
       "price": 12.0,
-      "image": "./images/plato_berenjenas.jpeg",
+      "image": "./images/berenjena.jpg",
       "allergens": {
         "es": [
           "Gluten",
@@ -1050,7 +1050,7 @@
       "id": "c3",
       "category": "compartir",
       "name": {
-        "es": "Piruleta de Queso de Cabra con Mermelada",
+        "es": "Piruletas de Queso de Cabra con Mermelada",
         "en": "Goat Cheese Lollipop with Jam",
         "fr": "Sucette de Chèvre à la Confiture"
       },
@@ -1060,7 +1060,7 @@
         "fr": "Sucettes de chèvre panées et frites, servies avec confiture artisanale."
       },
       "price": 12.0,
-      "image": "./images/piruleta_dequeso.jpg",
+      "image": "./images/plato_piruletas.jpeg",
       "allergens": {
         "es": [
           "Lácteos",

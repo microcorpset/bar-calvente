@@ -199,7 +199,34 @@
         "emptyOrder": "Votre commande est vide"
       }
     },
-    "messages": [],
+    "messages": [
+      {
+        "id": "msg_no_tapas_finde",
+        "enabled": true,
+        "delay": 1200,
+        "title": {
+          "es": "Aviso",
+          "en": "Notice",
+          "fr": "Avis"
+        },
+        "message": {
+          "es": "Los fines de semana y festivos no hay tapas",
+          "en": "Tapas are not available on weekends and holidays",
+          "fr": "Pas de tapas les week-ends et jours fériés"
+        },
+        "schedule": {
+          "defaultVisible": false,
+          "rules": [
+            {
+              "days": [5, 6, 0],
+              "from": "00:00",
+              "to": "23:59",
+              "visible": true
+            }
+          ]
+        }
+      }
+    ],
     "developer": {
       "name": "JON GLEZ",
       "tagline": {
@@ -295,15 +322,7 @@
         "defaultVisible": false,
         "rules": [
           {
-            "days": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              0
-            ],
+            "days": [1, 2, 3, 4],
             "from": "00:00",
             "to": "23:59",
             "visible": true
@@ -1631,7 +1650,7 @@
         "fr": "Pain perdu artisanal imbibé de lait et d'œuf, caramélisé et servi avec glace à la cannelle."
       },
       "price": 5.5,
-      "image": "",
+      "image": "./images/torrija.jpg",
       "tags": {
         "es": [
           "Recomendado"

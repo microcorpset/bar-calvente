@@ -218,7 +218,7 @@
           "defaultVisible": false,
           "rules": [
             {
-              "days": [5, 6, 0],
+              "days": [1, 2, 3, 4, 5, 6, 0],
               "from": "00:00",
               "to": "23:59",
               "visible": true
@@ -317,23 +317,7 @@
         "en": "Tapas",
         "fr": "Tapas"
       },
-      "emoji": "🥘",
-      "schedule": {
-        "defaultVisible": false,
-        "rules": [
-          {
-            "days": [1, 2, 3, 4],
-            "from": "00:00",
-            "to": "23:59",
-            "visible": true
-          }
-        ]
-      },
-      "note": {
-        "es": "Excepto fines de semana y festivos",
-        "en": "Except weekends and holidays",
-        "fr": "Sauf week-ends et jours fériés"
-      }
+      "emoji": "🥘"
     },
     {
       "id": "frios",

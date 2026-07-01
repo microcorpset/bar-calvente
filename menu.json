@@ -1357,7 +1357,7 @@
         "en": "Selection of grilled Iberian meats for two people, with garnish.",
         "fr": "Sélection de viandes ibériques grillées pour deux personnes, avec garniture."
       },
-      "price": 20.0,
+      "price": 22.0,
       "image": "./images/parrillada2.jpeg",
       "allergens": {
         "es": [],
@@ -1379,7 +1379,7 @@
         "en": "Large selection of grilled Iberian meats for four people, with garnish.",
         "fr": "Grande sélection de viandes ibériques grillées pour quatre personnes, avec garniture."
       },
-      "price": 38.0,
+      "price": 40.0,
       "image": "./images/parrillada4.jpeg",
       "allergens": {
         "es": [],
